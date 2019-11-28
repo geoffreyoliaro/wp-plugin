@@ -2,7 +2,7 @@
 /**
  * Filter Taxonomies Widget Main File.
  *
- * @package IHS Geo Location
+ * @package IHS Geo Location.
  */
 
 /*
